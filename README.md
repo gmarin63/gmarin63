@@ -2,6 +2,10 @@
 
 ### Software Developer | AI & Automation | Data & Business Intelligence
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gmarin63/IntegraFlow-AI/main/assets/integraflow-ai-logo.svg" alt="IntegraFlow AI" width="650">
+</p>
+
 Desarrollo soluciones tecnológicas orientadas a **automatización, análisis de datos e integración de procesos empresariales**.
 
 Actualmente estoy fortaleciendo mi perfil en **Análisis y Desarrollo de Software (ADSO)**, combinando desarrollo, datos y conocimiento de procesos administrativos y contables para construir soluciones con impacto empresarial.
