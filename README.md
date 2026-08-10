@@ -1,12 +1,10 @@
 # 👋 Hola, soy Gerardo Marín
 
-### Analista y Desarrollador de Software en formación
+### Software Developer | AI & Automation | Data & Business Intelligence
 
-💻 Desarrollo de Software · 🤖 Inteligencia Artificial · ⚙️ Automatización · 📊 Datos y Business Intelligence
+Desarrollo soluciones tecnológicas orientadas a **automatización, análisis de datos e integración de procesos empresariales**.
 
-Actualmente me estoy formando en **Análisis y Desarrollo de Software (ADSO)** y fortaleciendo mis conocimientos en desarrollo de aplicaciones, bases de datos, análisis de datos e inteligencia artificial.
-
-Mi experiencia en áreas **administrativas, contables y de gestión empresarial** me permite combinar tecnología y conocimiento de procesos para crear soluciones orientadas a necesidades reales de las organizaciones.
+Actualmente estoy fortaleciendo mi perfil en **Análisis y Desarrollo de Software (ADSO)**, combinando desarrollo, datos y conocimiento de procesos administrativos y contables para construir soluciones con impacto empresarial.
 
 ---
 
@@ -16,7 +14,7 @@ Mi experiencia en áreas **administrativas, contables y de gestión empresarial*
 
 Plataforma web inteligente para la **automatización e integración de procesos empresariales mediante Inteligencia Artificial**.
 
-Incluye la definición de módulos para:
+**Áreas del proyecto:**
 
 - 👥 Gestión de usuarios
 - 🤝 CRM
@@ -25,22 +23,22 @@ Incluye la definición de módulos para:
 - 📊 Dashboard empresarial
 - 📑 Generación de reportes
 - 🤖 Asistencia mediante IA
-- 🔗 Integración con servicios externos
+- 🔗 Integración con APIs y servicios externos
 
-El proyecto utiliza **Historias de Usuario, Issues y GitHub** para gestionar el proceso de desarrollo.
+El proyecto se gestiona mediante **Historias de Usuario, Issues y control de versiones con Git/GitHub**.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tech Stack
 
-### Desarrollo
+**Lenguajes y desarrollo**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Datos y Business Intelligence
+**Datos y Business Intelligence**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -50,13 +48,25 @@ El proyecto utiliza **Historias de Usuario, Issues y GitHub** para gestionar el 
 
 ## 🎯 Áreas de interés
 
-- 🤖 Inteligencia Artificial
-- ⚙️ Automatización de procesos
+- 🤖 Inteligencia Artificial y aplicaciones con IA
+- ⚙️ Automatización de procesos empresariales
 - 🌐 Desarrollo de aplicaciones web
 - 📊 Análisis y visualización de datos
-- 🗄️ Bases de datos
+- 🗄️ Bases de datos y SQL
 - 🔌 Integración de APIs
-- 🧩 Sistemas empresariales
+- 🧩 Sistemas de información empresarial
+- 📈 Business Intelligence
+
+---
+
+## 🌱 Actualmente aprendiendo
+
+- Desarrollo de software y arquitectura de aplicaciones
+- Backend y APIs REST
+- Diseño y gestión de bases de datos
+- Pruebas de software
+- Integración de Inteligencia Artificial
+- GitHub, GitHub Projects y flujos de trabajo colaborativos
 
 ---
 
@@ -65,21 +75,28 @@ El proyecto utiliza **Historias de Usuario, Issues y GitHub** para gestionar el 
 - 🎓 **Análisis y Desarrollo de Software — SENA**
 - 🎓 **Contaduría Pública**
 - 🎓 **Administración Pública**
-- 🎓 **Gestión Administrativa — SENA**
-- 🎓 **Contabilización de Operaciones Comerciales y Financieras**
+- 🎓 **Tecnología en Gestión Administrativa — SENA**
+- 🎓 **Técnico en Contabilización de Operaciones Comerciales y Financieras**
 
 ---
 
-## 📈 Objetivo profesional
+## 💡 Mi enfoque
 
-Desarrollarme profesionalmente en **Software Development, Data Analytics, Business Intelligence e Inteligencia Artificial**, creando soluciones tecnológicas que permitan automatizar procesos y mejorar la toma de decisiones empresariales.
-
----
-
-## 📫 Contacto
-
-- GitHub: [@gmarin63](https://github.com/gmarin63)
+Combinar **tecnología + datos + conocimiento empresarial** para desarrollar soluciones que automaticen tareas, mejoren procesos y faciliten la toma de decisiones.
 
 ---
 
-⭐ Gracias por visitar mi perfil.
+## 📌 Objetivo profesional
+
+Crecer profesionalmente en **Software Development, Data Analytics, Business Intelligence e Inteligencia Artificial**, participando en proyectos donde la tecnología genere soluciones prácticas para organizaciones y usuarios.
+
+---
+
+## 📫 Conecta conmigo
+
+- 💻 [GitHub](https://github.com/gmarin63)
+- 🚀 [IntegraFlow-AI](https://github.com/gmarin63/IntegraFlow-AI)
+
+---
+
+⭐ Si encuentras interesante alguno de mis proyectos, puedes explorarlo y seguir mi trabajo.
