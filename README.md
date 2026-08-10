@@ -2,10 +2,6 @@
 
 ### Software Developer | AI & Automation | Data & Business Intelligence
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gmarin63/IntegraFlow-AI/main/assets/integraflow-ai-logo.svg" alt="IntegraFlow AI" width="650">
-</p>
-
 Desarrollo soluciones tecnológicas orientadas a **automatización, análisis de datos e integración de procesos empresariales**.
 
 Actualmente estoy fortaleciendo mi perfil en **Análisis y Desarrollo de Software (ADSO)**, combinando desarrollo, datos y conocimiento de procesos administrativos y contables para construir soluciones con impacto empresarial.
@@ -37,16 +33,16 @@ El proyecto se gestiona mediante **Historias de Usuario, Issues y control de ver
 
 **Lenguajes y desarrollo**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- Python
+- SQL
+- Git
+- GitHub
 
 **Datos y Business Intelligence**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- Power BI
+- Pandas
+- NumPy
 
 ---
 
