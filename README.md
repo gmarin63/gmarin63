@@ -16,32 +16,9 @@ Plataforma web orientada a la **automatización e integración de procesos empre
 
 ### 🏗️ Arquitectura conceptual
 
-```text
-                         USUARIOS
-                            │
-                            ▼
-                  ┌───────────────────┐
-                  │  IntegraFlow AI   │
-                  │   Plataforma Web  │
-                  └─────────┬─────────┘
-                            │
-       ┌────────────────────┼────────────────────┐
-       │                    │                    │
-       ▼                    ▼                    ▼
-      CRM                  RRHH            CONTABILIDAD
-       │                    │                    │
-       └────────────────────┼────────────────────┘
-                            │
-                            ▼
-                  ┌─────────────────────┐
-                  │ Motor IA +          │
-                  │ Automatización      │
-                  └──────────┬──────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-            Gmail          DIAN API       WhatsApp
-```
+![Arquitectura conceptual de IntegraFlow AI](https://raw.githubusercontent.com/gmarin63/IntegraFlow-AI/main/docs/arquitectura/arquitectura-conceptual.svg)
+
+*Arquitectura conceptual de IntegraFlow AI: usuarios, plataforma web, módulos empresariales, motor de IA y automatización e integraciones externas.*
 
 ### 🎯 Objetivo del proyecto
 
