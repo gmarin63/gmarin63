@@ -1,10 +1,10 @@
 # 👋 Hola, soy Gerardo Marín
 
-### Software Developer | AI & Automation | Data & Business Intelligence
+### Aprendiz SENA – ADSO | Software Developer | AI & Automation | Data & Business Intelligence
 
-Desarrollo soluciones tecnológicas orientadas a **automatización, análisis de datos e integración de procesos empresariales**.
+Soy **Aprendiz SENA de Análisis y Desarrollo de Software (ADSO)** y desarrollo soluciones tecnológicas orientadas a **automatización, análisis de datos e integración de procesos empresariales**.
 
-Actualmente estoy fortaleciendo mi perfil en **Análisis y Desarrollo de Software (ADSO)**, combinando desarrollo, datos y conocimiento de procesos administrativos y contables para construir soluciones con impacto empresarial.
+Actualmente estoy fortaleciendo mi perfil en desarrollo de software, combinando tecnología, datos y conocimiento de procesos administrativos y contables para construir soluciones con impacto empresarial.
 
 ---
 
@@ -72,7 +72,7 @@ El proyecto se gestiona mediante **Historias de Usuario, Issues y control de ver
 
 ## 📚 Formación
 
-- 🎓 **Análisis y Desarrollo de Software — SENA**
+- 🎓 **Aprendiz SENA — Análisis y Desarrollo de Software (ADSO)**
 - 🎓 **Contaduría Pública**
 - 🎓 **Administración Pública**
 - 🎓 **Tecnología en Gestión Administrativa — SENA**
