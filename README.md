@@ -16,9 +16,9 @@ Plataforma web orientada a la **automatización e integración de procesos empre
 
 ### 🏗️ Arquitectura conceptual
 
-![Arquitectura conceptual actualizada de IntegraFlow AI](https://raw.githubusercontent.com/gmarin63/IntegraFlow-AI/main/docs/arquitectura/arquitectura-conceptual.svg?v=20260812)
+![Arquitectura conceptual IntegraFlow AI v2](https://raw.githubusercontent.com/gmarin63/IntegraFlow-AI/main/docs/arquitectura/arquitectura-conceptual-v2.svg)
 
-*Arquitectura conceptual actualizada de IntegraFlow AI con identidad visual corporativa: usuarios, módulos CRM, RRHH, Contabilidad, Documentos y Reportes, Motor IA + Automatización, flujos, base de datos centralizada e integraciones externas.*
+*Arquitectura conceptual de IntegraFlow AI con identidad visual corporativa: usuarios, módulos CRM, RRHH, Contabilidad, Documentos y Reportes, Motor IA + Automatización, flujo de automatización, base de datos centralizada e integraciones externas.*
 
 ### 🎯 Objetivo del proyecto
 
